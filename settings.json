@@ -1,0 +1,26 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.lineNumbers": "relative",
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+"vim.useSystemClipboard": true,
+  "editor.minimap.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "arcade",
+  "explorer.confirmDelete": false,
+  "debug.onTaskErrors": "debugAnyway",
+  "git.enableSmartCommit": true,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.ignoreWindowsGit27Warning": true,
+  "angular.experimental-ivy": true,
+  "explorer.confirmDragAndDrop": false
+}
